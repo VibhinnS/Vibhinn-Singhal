@@ -1,6 +1,4 @@
 # Vibhinn-Singhal
-## ✉️ Find me on:
-
 
 
 ## 🧰 Languages and Tools:
